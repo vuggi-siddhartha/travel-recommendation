@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node (if using npm in future)
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Build
+dist/
+build/
